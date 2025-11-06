@@ -25,4 +25,6 @@ for(let i = 0; i < myArray.length; i++) {
 //#4
 console.log("#4");
 
+let myString = "This is my String";
 
+console.log(myString.length);
