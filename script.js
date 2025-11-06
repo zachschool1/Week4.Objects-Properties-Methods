@@ -11,7 +11,7 @@ console.log(myArray[myArray.length-1]);
 //#2
 console.log("#2");
 for(let i = 0; i < myArray.length; i++) {
-    console.log(myArray[i]);
+    console.log(`myArray[${i}] is ` + myArray[i]);
 }
 //#3
 console.log("#3");
