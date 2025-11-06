@@ -18,7 +18,7 @@ console.log("#3");
 
 myArray.push(5,4,2,3,1);
 for(let i = 0; i < myArray.length; i++) {
-    console.log(myArray[i]);
+    console.log(`myArray[${i}] is ` + myArray[i]);
 }
 
 //shows all values  5,6,7,8,2,5,4,3,2,1
